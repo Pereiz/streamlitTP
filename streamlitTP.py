@@ -89,5 +89,5 @@ if file is not None:
     st.line_chart(df)
 
 else:
-    st.warning("Veuillez télécharger un fichier CSV pour commencer.")
+    st.warning("Veuillez télécharger un fichier CSV pour commencer. Exemple : IRIS.CSV")
 
